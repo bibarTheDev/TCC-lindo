@@ -56,7 +56,7 @@
     "firesql": "^2.0.2",
     "jquery": "^3.5.0",
     "mx.ferreyra.callnumber": "0.0.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "phonegap-plugin-barcodescanner": "8.1.0",
     "rxfire": "^3.8.7",
     "rxjs": "^6.5.3",
