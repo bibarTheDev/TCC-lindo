@@ -38,7 +38,7 @@
     "angularfire2": "^5.2.1",
     "br-mask": "0.0.7",
     "call-number": "1.0.1",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "cordova-android": "8.0.0",
     "cordova-browser": "6.0.0",
     "cordova-plugin-qrscanner": "3.0.1",
